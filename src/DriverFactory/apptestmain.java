@@ -6,6 +6,11 @@ public class apptestmain {
 	DriverScript ds= new DriverScript();
 	ds.starTest();
 
+	
+	
+	System.out.println("hello world");
+	
+	
 	}
 
 }
