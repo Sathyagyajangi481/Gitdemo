@@ -9,6 +9,8 @@ public class apptestmain {
 	
 	
 	System.out.println("hello world");
+	System.out.println("hello world");
+	System.out.println("hello world");
 	
 	
 	}
